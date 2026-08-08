@@ -1,0 +1,10 @@
+{
+  "channel": "telegram",
+  "enabled": true,
+  "telegram": {
+    "botUsername": "Aixa_user_bot",
+    "botToken": "8825339678:AAF_5Fc-mwVouuiFYD2uWm5by5ug_063_4Y",
+    "polling": true,
+    "parseMode": "Markdown"
+  }
+}
