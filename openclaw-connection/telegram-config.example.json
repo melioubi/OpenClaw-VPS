@@ -1,0 +1,10 @@
+{
+  "channel": "telegram",
+  "enabled": true,
+  "telegram": {
+    "botUsername": "${TELEGRAM_BOT_USERNAME}",
+    "botToken": "${TELEGRAM_BOT_TOKEN}",
+    "polling": true,
+    "parseMode": "${TELEGRAM_PARSE_MODE}"
+  }
+}
